@@ -1,4 +1,4 @@
-# Vehicale_Renatal_Agency
+# Vehicale_Rental_Agency
 
 This Rental Management Application allows users to rent vehicles from a fleet managed by the rental agency.
 
