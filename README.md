@@ -15,7 +15,7 @@ This Rental Management Application allows users to rent vehicles from a fleet ma
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/rental-management.git
+    git clone https://github.com/Rutvik-Gandhi/Vehicale_Renatal_Agency.git
     ```
 
 2. **Navigate to the Directory**:
